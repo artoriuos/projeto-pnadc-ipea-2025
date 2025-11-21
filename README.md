@@ -4,11 +4,11 @@ Repositório contendo o código-fonte e a memória de cálculo do Projeto de Pes
 
 ## 📄 Conteúdo do Repositório
 
-* **[`analise_desocupacao_pnad.ipynb`](./analise_desocupacao_pnad.ipynb)**: Jupyter Notebook com o código completo, incluindo:
+* **[`analise_desocupacao_pnad.ipynb`](./Projeto_Simplificado_JoseArthur.ipynb)**: Jupyter Notebook com o código completo, incluindo:
     1.  Rotina de validação de integridade dos 20 arquivos `.txt` da PNAD.
     2.  Definição do layout posicional (`COLSPECS`).
     3.  Processamento, filtragem e cálculo ponderado das taxas.
-* **[`analise_desocupacao_pnad.pdf`](./analise_desocupacao_pnad.pdf)**: Versão estática do notebook para visualização rápida dos resultados e gráficos.
+* **[`analise_desocupacao_pnad.pdf`](./Projeto_Simplificado_JoseArthur.pdf)**: Versão estática do notebook para visualização rápida dos resultados e gráficos.
 
 ## 🛠️ Metodologia Técnica
 
